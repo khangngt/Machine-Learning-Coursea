@@ -1,6 +1,6 @@
 # Week 1 | I. Introduction
 
-Question 1
+## Question 1
  
 A computer program is said to learn from experience E with respect to some task T and some performance measure P if its
 performance on T, as measured by P, improves with experience E. Suppose we feed a learning algorithm a lot of historical weather
@@ -23,7 +23,7 @@ algorithm to predict how much rain will fall tomorrow. Would you treat this as a
 
 Answer
 
-* Regression </br>
+* **Regression**
 
 * Classification
 
@@ -37,7 +37,7 @@ Answer
 
 * Regression
 
-* Classification </br>
+* **Classification**
 
 Question 4
 
@@ -51,13 +51,13 @@ Answer
 discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these 
 categories are.
 
-* Given genetic (DNA) data from a person, predict the odds of him/her developing diabetes over the next 10 years. </br>
+* **Given genetic (DNA) data from a person, predict the odds of him/her developing diabetes over the next 10 years.**
 
 * Given a large dataset of medical records from patients suffering from heart disease, try to learn whether there might be different 
 clusters of such patients for which we might tailor separate treatments.
 
-* Have a computer examine an audio clip of a piece of music, and classify whether or not there are vocals (i.e., a human voice singing)
-in that audio clip, or if it is a clip of only musical instruments (and no vocals). </br>
+* **Have a computer examine an audio clip of a piece of music, and classify whether or not there are vocals (i.e., a human voice singing)
+in that audio clip, or if it is a clip of only musical instruments (and no vocals).**
 
 Question 5
 
@@ -71,4 +71,4 @@ Answer
 
 * Machine learning is the field of allowing robots to act intelligently.
 
-* Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed. </br>
+* **Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.**
