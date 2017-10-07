@@ -1,4 +1,6 @@
-1. 
+# Week 1 | 2. Linear Regression with One Variable
+
+## Question 1
 Consider the problem of predicting how well a student does in her second year of college/university, given how well she did in her first year.
 
 Specifically, let x be equal to the number of "A" grades (including A-. A and A+ grades) that a student receives in their first year of college (freshmen year). We would like to predict the value of y, which we define as the number of "A" grades they get in their second year (sophomore year).
